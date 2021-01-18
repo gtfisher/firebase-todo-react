@@ -10,3 +10,4 @@ module.exports = {
     appId: "1:662454588566:web:e645a32104985763399eb7",
     measurementId: "G-QX4BCQY2ZX"
 };
+
